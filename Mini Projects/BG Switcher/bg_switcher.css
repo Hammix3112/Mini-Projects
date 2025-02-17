@@ -1,0 +1,35 @@
+#container{
+    width: 60%;
+    margin: auto;
+    border: none;
+    display: flex;
+}
+
+h1{
+    font-size: 38px;
+    text-align: center;
+   
+}
+
+button{
+    width: 19%;
+    height: 150px;
+    border: 1px solid white;
+    color: white;
+}
+
+#skyblue{
+    background: skyblue;
+}
+
+#orange{
+    background: orange;
+}
+
+#grey{
+    background: grey;
+}
+
+#purple{
+    background: purple;
+}
